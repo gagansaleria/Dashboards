@@ -26,8 +26,8 @@ The dashboards in this collection are created using the following tools:
 
 ## Contact
 
-If you have any questions or would like to discuss any of the dashboards in more detail, feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/gagansays/).
+If you have any questions or would like to discuss in more detail, feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/gagansays/).
 
 ---
 
-Thank you for visiting this repository. I hope you find these dashboards informative and insightful!
+Thank you for visiting this repository. I hope you find this informative and insightful!
